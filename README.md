@@ -9,5 +9,5 @@
 ![Flutter](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=Flutter)
 
 ### Follow Me
-![[Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Egemberdiev23)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Egemberdiev23)
 
