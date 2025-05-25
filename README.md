@@ -1,7 +1,7 @@
 # HI There!
 ![Header](https://github.com/Aidosik23/Aidosik23/blob/main/assets/YHjl.gif)
 
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm [Aidi]
 
 I'm a Data Analyst & aspiring Data Engineer with hands-on experience in working with large datasets, building data pipelines, and delivering insights.
 
