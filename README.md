@@ -1,7 +1,27 @@
 # HI There!
 ![Header](https://github.com/Aidosik23/Aidosik23/blob/main/assets/YHjl.gif)
 
-## I'm a beginner Python Engineer
+## 👋 Hi, I'm [Your Name]
+
+I'm a Data Analyst & aspiring Data Engineer with hands-on experience in working with large datasets, building data pipelines, and delivering insights.
+
+### 💼 What I do at work:
+- Analyze business data to generate insights and reports
+- Write complex SQL queries across Oracle, PostgreSQL, ClickHouse
+- Build and maintain ETL pipelines using Python and Apache Spark
+- Use DBT for data transformations and modeling
+- Automate manual reporting processes and workflows
+
+### 🛠️ Tech Stack:
+- **Languages**: Python, SQL
+- **Databases**: Oracle, PostgreSQL, ClickHouse
+- **Tools**: Apache Spark, Pandas, DBT
+- **Other**: Git, Airflow (basics), Linux
+
+### 📈 Interests:
+- Data pipeline automation
+- Performance optimization for analytical queries
+- Learning modern data stack tools
 ----------------------------------
 
 ### Languages and Tools:
