@@ -15,8 +15,8 @@ I'm a Data Analyst & aspiring Data Engineer with hands-on experience in working 
 ### 🛠️ Tech Stack:
 - **Languages**: Python, SQL
 - **Databases**: Oracle, PostgreSQL, ClickHouse
-- **Tools**: Apache Spark, Pandas, DBT
-- **Other**: Git, Airflow (basics), Linux
+- **Tools**: Airflow, Pandas, DBT
+- **Other**: Git, Apache Spark (basics), Linux
 
 ### 📈 Interests:
 - Data pipeline automation
